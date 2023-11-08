@@ -45,6 +45,8 @@ Link to the [Google slides](https://drive.google.com/file/d/1v0Peu1mknfhY74Vh4-T
 
   ## Links
 
-  Dashboard -https://www.novypro.com/my_portfolio_settings/-nivedhitha-mullangi
+   [Link to Banking Schemas SQL](https://github.com/Nivedhitha1009/Banking-_Schemas_SQL/commit/d87529bc0747f5dadbbeb651e764d8b453d62423)
+    
+  [Link to Dashboard](https://www.novypro.com/my_portfolio_settings/-nivedhitha-mullangi)
   
-  Linkedin- https://www.linkedin.com/in/nivedhitha-mullangi-433a27274/
+  [Link to Linkedin](https://www.linkedin.com/in/nivedhitha-mullangi-433a27274/)
