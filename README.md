@@ -1,5 +1,8 @@
 # Bank-Analytics_DB_ExcelR
 
+## Presentation:
+Link to the [Google slides](https://drive.google.com/file/d/1v0Peu1mknfhY74Vh4-TtTokyAE6-vQw2/view?usp=drive_web)
+
 ## Project Overview :
  we are conducted a comprehensive analysis of loan data, examining various KPIs such as year-wise loan amounts, revolving balances, and state-wise loan status. 
  By scrutinizing these metrics, we've uncovered trends and correlations that can drive better lending practices and financial planning. 
